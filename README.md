@@ -1,2 +1,2 @@
 # Result summary page!
-Site link: site link: https://thelokesha.github.io/frontendmentor1/
+Site link: site link: https://itslokeshx.github.io/frontendmentor1/
